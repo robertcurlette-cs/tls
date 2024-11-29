@@ -1,0 +1,16 @@
+{
+    "header": {
+        "label": {
+            "personal": "Personal",
+            "business": "Business"
+        }
+    },
+    "language": {
+        "english": "English",
+        "french": "Français"
+    },
+    "regions": {
+        "ontario": "Ontario",
+        "british-columbia": "British Columbia"
+    }
+}

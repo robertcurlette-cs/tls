@@ -1,0 +1,16 @@
+{
+    "header": {
+        "label": {
+            "personal": "Grand public",
+            "business": "Entreprises"
+        }
+    },
+    "language": {
+        "english": "Anglais",
+        "french": "Français"
+    },
+    "regions": {
+        "ontario": "Ontario",
+        "british-columbia": "Colombie-Britannique"
+    }
+}
